@@ -133,7 +133,7 @@ input, select, textarea {
 		}
 
 			h2.major span {
-				background: #fff;
+				background: #f2f5f3;
 				position: relative;
 				display: inline-block;
 				top: -0.775em;
@@ -2209,6 +2209,7 @@ input, select, textarea {
 
 	.box.feature {
 		text-align: center;
+		color:#555
 	}
 
 	.box.post header {
@@ -2539,7 +2540,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background: #fff;
+		background: #f2f5f3;
 		border-top: solid 5px #b1ddab;
 		border-bottom: solid 5px #c1cac5;
 		border-top-width: 35px;
