@@ -245,7 +245,9 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
-
+			#doug {
+				display: none;
+			}
 			.container {
 				width: calc(100% - 40px);
 			}
