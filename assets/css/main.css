@@ -3243,3 +3243,26 @@ body {
 .project-container {
   display: flex;
 }
+
+.blog-image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.blog-description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 10px;
+  margin: 0;
+  font-size: 14px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.blog-image-container:hover .blog-description {
+  opacity: 1;
+}
