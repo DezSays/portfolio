@@ -39,9 +39,7 @@
 				</li>
 				<li>
 					<a href="./blog.html">Blog</a>
-
 				</li>
-
 			</ul>
 		</nav>
 
@@ -349,7 +347,7 @@
 
 		<section id="projects" class="box features" style="width:80%; text-align: center; margin: 0 auto;">
 			<h2 class="major"><span>Recent Projects</span></h2>
-			
+
 			<div>
 				<div class="row">
 
@@ -371,7 +369,7 @@
 
 							<div class="recent-project-links"">
 
-								<a href="https://battleship-umber.vercel.app/login" target="_blank" style="text-decoration:none;color:#555">
+								<a href=" https://battleship-umber.vercel.app/login" target="_blank" style="text-decoration:none;color:#555">
 								<img src="./images/chevron.png" style="max-height:2vh;">
 								Live Website
 								</a>
@@ -394,9 +392,8 @@
 
 						<!-- Feature -->
 						<section class="box-feature">
-							<a href="https://page-by-page.vercel.app/" target="_blank"
-								class="image featured"><img src="images/page_by_page.png" alt="Page by Page"
-									style="height:155px" /></a>
+							<a href="https://page-by-page.vercel.app/" target="_blank" class="image featured"><img
+									src="images/page_by_page.png" alt="Page by Page" style="height:155px" /></a>
 							<h3><a href="https://page-by-page.vercel.app/" target="_blank">Page by Page</a>
 							</h3>
 							<p>
@@ -465,9 +462,8 @@
 
 						<!-- Feature -->
 						<section class="box-feature">
-							<a href="https://flash-flip.vercel.app/" target="_blank"
-								class="image featured"><img src="images/flash-flip.png" alt="Flash-Flip"
-									style="height:155px" /></a>
+							<a href="https://flash-flip.vercel.app/" target="_blank" class="image featured"><img
+									src="images/flash-flip.png" alt="Flash-Flip" style="height:155px" /></a>
 							<h3><a href="https://flash-flip.vercel.app/" target="_blank">Flash-Flip</a></h3>
 							<p>
 								Flash-Flip is a game designed for students to better understand the core
@@ -621,6 +617,24 @@
 	<script src="assets/js/breakpoints.min.js"></script>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
+	<script>
+		// Get all the <li> elements inside the <nav>
+		const navItems = document.querySelectorAll("#nav ul li");
+
+		// Add event listener to each <li> item
+		navItems.forEach((item) => {
+			item.addEventListener("click", function () {
+				// Remove the "current" class from all <li> items
+				navItems.forEach((navItem) => {
+					navItem.classList.remove("current");
+				});
+
+				// Add the "current" class to the clicked <li> item
+				this.classList.add("current");
+			});
+		});
+	</script>
+
 
 </body>
 
