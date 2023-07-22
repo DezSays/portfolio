@@ -28,9 +28,9 @@ export default [
     id: 4,
     title: "Mastering CSS Selectors: A Comprehensive Guide for Beginners",
     description:
-      "** COMING JULY 19th ** Mastering CSS Selectors: A comprehensive guide for beginners, empowering you with the knowledge and confidence to wield the power of CSS selectors in web development.",
+      "Mastering CSS Selectors: A comprehensive guide for beginners, empowering you with the knowledge and confidence to wield the power of CSS selectors in web development.",
     img: "images/css-selectors.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/mastering-css-selectors-a-comprehensive-guide-for-beginners-5fc07cb3c20d",
   },
   {
     id: 5,
@@ -64,4 +64,180 @@ export default [
     img: "images/time-series-database.jpg",
     url: "#",
   },
+  {
+    id: 9,
+    title: "Hierarchical Databases: Unveiling the Power of Data Hierarchy",
+    description:
+      "** COMING AUGUST 23rd ** Discover the power of hierarchical databases: importance, applications, and practical tips for efficient data management.",
+    img: "images/hierarchical-databases.jpg",
+    url: "#",
+  },
+  {
+    id: 10,
+    title: "Network Databases: Unleashing the Power of Interconnected Data",
+    description:
+      "** COMING AUGUST 30th ** Discover the potential of network databases: importance, applications, and practical tips for efficient data management in interconnected environments.",
+    img: "images/network-databases.jpg",
+    url: "#",
+  },
+  {
+    id: 11,
+    title: "Object-Oriented Databases: Unleashing the Power of Objects in Data Management",
+    description:
+      "** COMING SEPTEMBER 6th ** Unleash the power of object-oriented databases: discover their importance, real-world applications, and practical tips for seamless integration and efficient data management.",
+    img: "images/OOD.jpg",
+    url: "#",
+  },
+  {
+    id: 12,
+    title: "Unleashing the Power of NoSQL Databases: Breaking Free from Relational Constraints",
+    description:
+      "** COMING SEPTEMBER 13th ** Embark on a journey into the realm of NoSQL databases, discovering their game-changing importance, real-world applications, and practical tips to harness their flexibility and scalability for modern data management.",
+    img: "images/nosql.jpg",
+    url: "#",
+  },
+  {
+    id: 13,
+    title: "Harnessing React's useRef Hook for Powerful References",
+    description:
+      "** COMING SEPTEMBER 20th ** Explore the power of React's useRef hook: understand its purpose, benefits, and practical tips for efficient reference management in your React applications.",
+    img: "images/useref.jpg",
+    url: "#",
+  },
+  {
+    id: 14,
+    title: "Managing Complex State with the useReducer Hook in React",
+    description:
+      "** COMING SEPTEMBER 27th ** Unleash the power of useReducer hook in React: simplify state management, reduce complexity, and build maintainable and scalable components with centralized state logic.",
+    img: "images/usereducer.jpg",
+    url: "#",
+  },
+  {
+    id: 15,
+    title: "Optimizing Performance with the useMemo Hook in React",
+    description:
+      "** COMING OCTOBER 4th ** Harness the power of useMemo in React development to optimize performance: memoize expensive calculations, reduce re-renders, and efficiently handle complex dependencies.",
+    img: "images/useMemo.jpg",
+    url: "#",
+  },
+  {
+    id: 16,
+    title: "Simplify DOM Insertion with the useInsertionEffect Hook in React",
+    description:
+      "** COMING OCTOBER 11th ** Unleash the potential of React's useInsertionEffect hook: control DOM insertion events, animate elements, and enhance React component behavior with ease in this insightful blog post.",
+    img: "images/useInsertionEffect.jpg",
+    url: "#",
+  },
+  {
+    id: 17,
+    title: "Harnessing Control and Refinement with the useImperativeHandle Hook in React",
+    description:
+      "** COMING OCTOBER 18th ** Explore the power of the useImperativeHandle hook in React: control and refine communication between parent and child components by exposing custom methods or properties through a ref, enhancing encapsulation and modularity in your code.",
+    img: "images/useImperativeHandle.jpg",
+    url: "#",
+  },
+  {
+    id: 18,
+    title: "Simplify Unique ID Generation with the useId Hook in React",
+    description:
+      "** COMING OCTOBER 25th ** Discover the useId hook—a simple and reliable solution for generating unique IDs in React applications. Ensure element uniqueness, simplify ID generation, and streamline your code for robust and interactive user interfaces.",
+    img: "images/useId.jpg",
+    url: "#",
+  },
+  {
+    id: 19,
+    title: "Improving Performance with useDeferredValue Hook: Optimize React Rendering for Better User Experience",
+    description:
+      "** COMING NOVEMBER 1st ** Discover the useDeferredValue hook, a powerful tool in React performance optimization, enabling deferred rendering of less critical components to enhance user experience and improve application responsiveness.",
+    img: "images/useDeferredValue.jpg",
+    url: "#",
+  },
+  {
+    id: 20,
+    title: "Enhancing Debugging with useDebugValue Hook: A Practical Tool for React Developers",
+    description:
+      "** COMING NOVEMBER 8th ** Unleash the power of the useDebugValue hook in React! Enhance debugging, document custom hooks effectively, and improve developer productivity for smoother development.",
+    img: "images/useDebugValue.jpg",
+    url: "#",
+  },
+  {
+    id: 21,
+    title: "Simplifying State Management with useContext Hook: A Powerful Tool for React Applications",
+    description:
+      "** COMING NOVEMBER 15th ** Discover the power of the useContext hook in React: streamline state management, simplify communication between components, and revolutionize your code organization for cleaner and more maintainable React applications.",
+    img: "images/useContext.jpg",
+    url: "#",
+  },
+  {
+    id: 22,
+    title: "Mastering Performance with the useTransition Hook: Enhancing React User Experiences",
+    description:
+      "** COMING NOVEMBER 22nd ** Uncover the power of the useTransition hook in React development: control rendering of asynchronous updates, prioritize user interactions, and enhance the perceived performance of your applications for smoother user experiences.",
+    img: "images/useTransition.jpg",
+    url: "#",
+  },
+  {
+    id: 23,
+    title: "Exploring the useCallback Hook: Optimizing React Function Components",
+    description:
+      "** COMING NOVEMBER 29th ** Unleash the power of useCallback: optimize React function components, prevent unnecessary re-renders, and enhance performance for smooth user experiences.",
+    img: "images/useCallback.jpg",
+    url: "#",
+  },
+  {
+    id: 24,
+    title: "Managing Layout Effects with the useLayoutEffect Hook in React",      
+    description:
+      "** COMING DECEMBER 6th ** Discover the power of React's useLayoutEffect hook - an ideal tool for managing layout effects, synchronizing with the DOM, and achieving smooth animations with precise timing.",
+    img: "images/uselayouteffect-hook.jpg",
+    url: "#",
+  },
+  {
+    id: 25,
+    title: "Mastering React Effects with useEffect Hook: Managing Side Effects for Dynamic Applications",
+    description:
+      "** COMING DECEMBER 13th ** Explore the power of the useEffect hook in React, simplifying side effect management and enabling dynamic applications with clean code and optimized performance.",
+    img: "images/useeffect-hook.jpg",
+    url: "#",
+  },
+  {
+    id: 26,
+    title: "Simplify State Management with React's useState Hook",
+    description:
+      "** COMING DECEMBER 20th ** Discover the power of React's useState hook: a simplified and intuitive approach to state management in functional components, offering reactive updates, modularity, and seamless handling of user interactions and form data. Embrace useState to unlock the potential of stateful functional components in your React applications!",
+    img: "images/usestate-hook.jpg",
+    url: "#",
+  },
+  {
+    id: 27,
+    title: "Sync Your Data Effortlessly with React's useSyncExternalStore Hook",
+    description:
+      "** COMING DECEMBER 27th ** Discover the seamless world of React data synchronization with useSyncExternalStore hook: real-time updates, simplified synchronization, and integration with external systems, enabling dynamic and responsive applications.",
+    img: "images/useSyncExternalStore-Hook.jpg",
+    url: "#",
+  },
+  {
+    id: 28,
+    title: "Mastering JavaScript Event Handlers: Unleashing Interactivity in Your Web Development Journey",
+    description:
+      "** COMING JANUARY 3rd ** Unleash the potential of JavaScript event handlers with this blog post exploring the top 10 handlers for interactive web development, empowering you to captivate users and elevate your projects.",
+    img: "images/js-event-handlers.jpg",
+    url: "#",
+  },
+  {
+    id: 29,
+    title: "Unveiling the Power of React's Built-in Components: Fragments, Profiler, Suspense, and StrictMode",
+    description:
+      "** COMING JANUARY 10th ** Delve into the world of React with this comprehensive guide, exploring four essential built-in components - Fragments, Profiler, Suspense, and StrictMode - to optimize performance, simplify asynchronous loading, catch potential issues early, and elevate your React development skills.",
+    img: "images/react-build-in-components-four.jpg",
+    url: "#",
+  },
+  {
+    id: 30,
+    title: "Exploring React Legacy APIs: Unleashing the Power of Classic Features",
+    description:
+      "** COMING JANUARY 17th ** Delve into the world of React Legacy APIs in this comprehensive article, exploring classic features that shaped React, their concepts, practical usage, and how they empower developers, from beginners to experts, to unlock React's hidden potential.",
+    img: "images/React-Legacy-APIs.jpg",
+    url: "#",
+  }
 ];
