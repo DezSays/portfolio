@@ -3254,6 +3254,7 @@ body {
   bottom: 0;
   left: 0;
   width: 100%;
+  height: 200px; /* Set the same height as .blog-image-container */
   background-color: rgba(0, 0, 0, 0.8);
   color: #fff;
   padding: 10px;
@@ -3261,7 +3262,10 @@ body {
   font-size: 14px;
   opacity: 0;
   transition: opacity 0.3s ease;
+  overflow-y: auto; /* Allow vertical scrolling when content exceeds height */
 }
+
+
 
 .blog-image-container:hover .blog-description {
   opacity: 1;
