@@ -36,105 +36,105 @@ export default [
     id: 5,
     title: "Exploring the Power of PostgreSQL: A Beginner's Guide to Versatile Database Management",
     description:
-      "** COMING JULY 26th ** Explore the power of PostgreSQL, a versatile and feature-rich open-source database management system, through this beginner's guide, uncovering its capabilities and real-world applications.",
+      "Explore the power of PostgreSQL, a versatile and feature-rich open-source database management system, through this beginner's guide, uncovering its capabilities and real-world applications.",
     img: "images/database.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/exploring-the-power-of-postgresql-a-beginners-guide-to-versatile-database-management-42afe548e4bf",
   },
   {
     id: 6,
     title: "Unleashing the Power of Spatial Databases: Navigating Location-Based Data",
     description:
-      "** COMING AUGUST 2nd ** Unleash the power of spatial databases, navigate location-based data, and unlock hidden insights for informed decision-making.",
+      "Unleash the power of spatial databases, navigate location-based data, and unlock hidden insights for informed decision-making.",
     img: "images/spatial.png",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/unleashing-the-power-of-spatial-databases-navigating-location-based-data-59e209116dfb",
   },
   {
     id: 7,
     title: "Relational Databases: Unleashing the Power of Structured Data",
     description:
-      "** COMING AUGUST 9th ** Explore the significance of relational databases through examples and practical tips for maximum effectiveness.",
+      "Explore the significance of relational databases through examples and practical tips for maximum effectiveness.",
     img: "images/db.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/relational-databases-unleashing-the-power-of-structured-data-fcd657740660",
   },
   {
     id: 8,
     title: "Time-Series Databases: Unleashing the Power of Time-Stamped Data",
     description:
-      "** COMING AUGUST 16th ** Unlock the power of time-stamped data with time-series databases, enabling efficient storage, analysis, and decision-making based on temporal behavior, as explored in this captivating blog post.",
+      "Unlock the power of time-stamped data with time-series databases, enabling efficient storage, analysis, and decision-making based on temporal behavior, as explored in this captivating blog post.",
     img: "images/time-series-database.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/time-series-databases-unleashing-the-power-of-time-stamped-data-da5b9fb211ab",
   },
   {
     id: 9,
     title: "Hierarchical Databases: Unveiling the Power of Data Hierarchy",
     description:
-      "** COMING AUGUST 23rd ** Discover the power of hierarchical databases: importance, applications, and practical tips for efficient data management.",
+      "Discover the power of hierarchical databases: importance, applications, and practical tips for efficient data management.",
     img: "images/hierarchical-databases.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/hierarchical-databases-unveiling-the-power-of-data-hierarchy-b24e3ed74459",
   },
   {
     id: 10,
     title: "Network Databases: Unleashing the Power of Interconnected Data",
     description:
-      "** COMING AUGUST 30th ** Discover the potential of network databases: importance, applications, and practical tips for efficient data management in interconnected environments.",
+      "Discover the potential of network databases: importance, applications, and practical tips for efficient data management in interconnected environments.",
     img: "images/network-databases.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/network-databases-unleashing-the-power-of-interconnected-data-b3598430e24b",
   },
   {
     id: 11,
     title: "Object-Oriented Databases: Unleashing the Power of Objects in Data Management",
     description:
-      "** COMING SEPTEMBER 6th ** Unleash the power of object-oriented databases: discover their importance, real-world applications, and practical tips for seamless integration and efficient data management.",
+      "Unleash the power of object-oriented databases: discover their importance, real-world applications, and practical tips for seamless integration and efficient data management.",
     img: "images/OOD.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/object-oriented-databases-unleashing-the-power-of-objects-in-data-management-a7a73887ea66",
   },
   {
     id: 12,
     title: "Unleashing the Power of NoSQL Databases: Breaking Free from Relational Constraints",
     description:
-      "** COMING SEPTEMBER 13th ** Embark on a journey into the realm of NoSQL databases, discovering their game-changing importance, real-world applications, and practical tips to harness their flexibility and scalability for modern data management.",
+      "Embark on a journey into the realm of NoSQL databases, discovering their game-changing importance, real-world applications, and practical tips to harness their flexibility and scalability for modern data management.",
     img: "images/nosql.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/unleashing-the-power-of-nosql-databases-breaking-free-from-relational-constraints-8d2205753da0",
   },
   {
     id: 13,
     title: "Harnessing React's useRef Hook for Powerful References",
     description:
-      "** COMING SEPTEMBER 20th ** Explore the power of React's useRef hook: understand its purpose, benefits, and practical tips for efficient reference management in your React applications.",
+      "Explore the power of React's useRef hook: understand its purpose, benefits, and practical tips for efficient reference management in your React applications.",
     img: "images/useref.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/harnessing-reacts-useref-hook-for-powerful-references-23cb67d8a811,
   },
   {
     id: 14,
     title: "Managing Complex State with the useReducer Hook in React",
     description:
-      "** COMING SEPTEMBER 27th ** Unleash the power of useReducer hook in React: simplify state management, reduce complexity, and build maintainable and scalable components with centralized state logic.",
+      "Unleash the power of useReducer hook in React: simplify state management, reduce complexity, and build maintainable and scalable components with centralized state logic.",
     img: "images/usereducer.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/managing-complex-state-with-the-usereducer-hook-in-react-da433ff3bb82",
   },
   {
     id: 15,
     title: "Optimizing Performance with the useMemo Hook in React",
     description:
-      "** COMING OCTOBER 4th ** Harness the power of useMemo in React development to optimize performance: memoize expensive calculations, reduce re-renders, and efficiently handle complex dependencies.",
+      "Harness the power of useMemo in React development to optimize performance: memoize expensive calculations, reduce re-renders, and efficiently handle complex dependencies.",
     img: "images/useMemo.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/optimizing-performance-with-the-usememo-hook-in-react-321ad88e2217",
   },
   {
     id: 16,
     title: "Simplify DOM Insertion with the useInsertionEffect Hook in React",
     description:
-      "** COMING OCTOBER 11th ** Unleash the potential of React's useInsertionEffect hook: control DOM insertion events, animate elements, and enhance React component behavior with ease in this insightful blog post.",
+      "Unleash the potential of React's useInsertionEffect hook: control DOM insertion events, animate elements, and enhance React component behavior with ease in this insightful blog post.",
     img: "images/useInsertionEffect.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/simplify-dom-insertion-with-the-useinsertioneffect-hook-in-react-fa46d09e892c",
   },
   {
     id: 17,
     title: "Harnessing Control and Refinement with the useImperativeHandle Hook in React",
     description:
-      "** COMING OCTOBER 18th ** Explore the power of the useImperativeHandle hook in React: control and refine communication between parent and child components by exposing custom methods or properties through a ref, enhancing encapsulation and modularity in your code.",
+      "Explore the power of the useImperativeHandle hook in React: control and refine communication between parent and child components by exposing custom methods or properties through a ref, enhancing encapsulation and modularity in your code.",
     img: "images/useImperativeHandle.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/harnessing-control-and-refinement-with-the-useimperativehandle-hook-in-react-99b2b8c084fc",
   },
   {
     id: 18,
