@@ -102,7 +102,7 @@ export default [
     description:
       "Explore the power of React's useRef hook: understand its purpose, benefits, and practical tips for efficient reference management in your React applications.",
     img: "images/useref.jpg",
-    url: "https://medium.com/@dezareabryan_39588/harnessing-reacts-useref-hook-for-powerful-references-23cb67d8a811,
+    url: "https://medium.com/@dezareabryan_39588/harnessing-reacts-useref-hook-for-powerful-references-23cb67d8a811"
   },
   {
     id: 14,
