@@ -146,9 +146,9 @@ export default [
     id: 18,
     title: "Simplify Unique ID Generation with the useId Hook in React",
     description:
-      "** COMING OCTOBER 25th ** Discover the useId hook—a simple and reliable solution for generating unique IDs in React applications. Ensure element uniqueness, simplify ID generation, and streamline your code for robust and interactive user interfaces.",
+      "Discover the useId hook—a simple and reliable solution for generating unique IDs in React applications. Ensure element uniqueness, simplify ID generation, and streamline your code for robust and interactive user interfaces.",
     img: "images/useId.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/simplify-unique-id-generation-with-the-useid-hook-in-react-7d5598cb443a",
   },
   {
     id: 19,
