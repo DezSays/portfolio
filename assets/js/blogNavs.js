@@ -155,7 +155,7 @@ export default [
     title:
       "Improving Performance with useDeferredValue Hook: Optimize React Rendering for Better User Experience",
     description:
-      "** COMING NOVEMBER 1st ** Discover the useDeferredValue hook, a powerful tool in React performance optimization, enabling deferred rendering of less critical components to enhance user experience and improve application responsiveness.",
+      "Discover the useDeferredValue hook, a powerful tool in React performance optimization, enabling deferred rendering of less critical components to enhance user experience and improve application responsiveness.",
     img: "images/useDeferredValue.jpg",
     url: "https://medium.com/@dezareabryan_39588/improving-performance-with-usedeferredvalue-hook-optimize-react-rendering-for-better-user-58bad098e1a2",
   },
