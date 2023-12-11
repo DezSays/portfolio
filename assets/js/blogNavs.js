@@ -164,44 +164,44 @@ export default [
     title:
       "Enhancing Debugging with useDebugValue Hook: A Practical Tool for React Developers",
     description:
-      "** COMING NOVEMBER 8th ** Unleash the power of the useDebugValue hook in React! Enhance debugging, document custom hooks effectively, and improve developer productivity for smoother development.",
+      "Unleash the power of the useDebugValue hook in React! Enhance debugging, document custom hooks effectively, and improve developer productivity for smoother development.",
     img: "images/useDebugValue.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/enhancing-debugging-with-usedebugvalue-hook-a-practical-tool-for-react-developers-caff4779be77",
   },
   {
     id: 21,
     title:
       "Simplifying State Management with useContext Hook: A Powerful Tool for React Applications",
     description:
-      "** COMING NOVEMBER 15th ** Discover the power of the useContext hook in React: streamline state management, simplify communication between components, and revolutionize your code organization for cleaner and more maintainable React applications.",
+      "Discover the power of the useContext hook in React: streamline state management, simplify communication between components, and revolutionize your code organization for cleaner and more maintainable React applications.",
     img: "images/useContext.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/simplifying-state-management-with-usecontext-hook-a-powerful-tool-for-react-applications-93cc8b2087b5",
   },
   {
     id: 22,
     title:
       "Mastering Performance with the useTransition Hook: Enhancing React User Experiences",
     description:
-      "** COMING NOVEMBER 22nd ** Uncover the power of the useTransition hook in React development: control rendering of asynchronous updates, prioritize user interactions, and enhance the perceived performance of your applications for smoother user experiences.",
+      "Uncover the power of the useTransition hook in React development: control rendering of asynchronous updates, prioritize user interactions, and enhance the perceived performance of your applications for smoother user experiences.",
     img: "images/useTransition.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/mastering-performance-with-the-usetransition-hook-enhancing-react-user-experiences-6462b66ecb3e",
   },
   {
     id: 23,
     title:
       "Exploring the useCallback Hook: Optimizing React Function Components",
     description:
-      "** COMING NOVEMBER 29th ** Unleash the power of useCallback: optimize React function components, prevent unnecessary re-renders, and enhance performance for smooth user experiences.",
+      "Unleash the power of useCallback: optimize React function components, prevent unnecessary re-renders, and enhance performance for smooth user experiences.",
     img: "images/useCallback.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/exploring-the-usecallback-hook-optimizing-react-function-components-28ee1865b95f",
   },
   {
     id: 24,
     title: "Managing Layout Effects with the useLayoutEffect Hook in React",
     description:
-      "** COMING DECEMBER 6th ** Discover the power of React's useLayoutEffect hook - an ideal tool for managing layout effects, synchronizing with the DOM, and achieving smooth animations with precise timing.",
+      "Discover the power of React's useLayoutEffect hook - an ideal tool for managing layout effects, synchronizing with the DOM, and achieving smooth animations with precise timing.",
     img: "images/uselayouteffect-hook.jpg",
-    url: "#",
+    url: "https://medium.com/@dezareabryan_39588/managing-layout-effects-with-the-uselayouteffect-hook-in-react-f7e596eebc92",
   },
   {
     id: 25,
