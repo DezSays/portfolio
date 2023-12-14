@@ -208,9 +208,9 @@ export default [
     title:
       "Mastering React Effects with useEffect Hook: Managing Side Effects for Dynamic Applications",
     description:
-      "** COMING DECEMBER 13th ** Explore the power of the useEffect hook in React, simplifying side effect management and enabling dynamic applications with clean code and optimized performance.",
+      "Explore the power of the useEffect hook in React, simplifying side effect management and enabling dynamic applications with clean code and optimized performance.",
     img: "images/useeffect-hook.jpg",
-    url: "#",
+    url: "https://medium.com/@dezsays/managing-layout-effects-with-the-uselayouteffect-hook-in-react-f7e596eebc92",
   },
   {
     id: 26,
