@@ -216,9 +216,9 @@ export default [
     id: 26,
     title: "Simplify State Management with React's useState Hook",
     description:
-      "** COMING DECEMBER 20th ** Discover the power of React's useState hook: a simplified and intuitive approach to state management in functional components, offering reactive updates, modularity, and seamless handling of user interactions and form data. Embrace useState to unlock the potential of stateful functional components in your React applications!",
+      "Discover the power of React's useState hook: a simplified and intuitive approach to state management in functional components, offering reactive updates, modularity, and seamless handling of user interactions and form data. Embrace useState to unlock the potential of stateful functional components in your React applications!",
     img: "images/usestate-hook.jpg",
-    url: "#",
+    url: "https://medium.com/@dezsays/simplify-state-management-with-reacts-usestate-hook-1bf34191ddc5",
   },
   {
     id: 27,
